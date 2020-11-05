@@ -175,6 +175,21 @@
 * [Bash指南](http://mywiki.wooledge.org/BashGuide)
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : 针对开发者的Unix和Linux命令
 
+<h2 id='data.struct'>数据结构</h2>
+
+  * [-visualization](https://www.cs.usfca.edu/) : 更好的理解数据结构操作过程
+  * [gitbook.io/](https://baozoulin.gitbook.io/) 
+  * [projecteuler](https://projecteuler.net/archives) 算法题 
+  * [算法库](www.educative.io)  算法库 英文版
+  * [在线编程](https://codeinterview.io/) 在线编程网，类似 leetcode
+  
+<h2 id='data.struct'>知识库</h2>
+  
+  * [IBM](https://developer.ibm.com/zh) 知识库
+  * [baeldung](https://www.baeldung.com/) java-spring
+  * [gRPC](https://doc.oschina.net/grpc?t=58010) grpc 官方文档
+  * [并发变成网](http://ifeve.com/) 
+
 <h2 id='interview-preparation'>面试准备</h2>
 
   * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : 这是一个非常大的面试问题列表是我在为4大面试时用到的，我认为对大家也是有用的
